@@ -1,0 +1,14 @@
+.App {
+  position: 0 0;
+  text-align: center;
+  width: 60%;
+  height: 80%;
+  transform: translate(30%,40%);
+  
+}
+
+.App-title {
+  margin:10px;
+  font-size: 2em;
+}
+
